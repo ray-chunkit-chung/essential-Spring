@@ -1,12 +1,14 @@
 # Getting started of Spring project in VSCode
 
+A minimal example of Spring Maven in VSCode
+
 
 ## Setup Java JDK
 1. Download Java JDK
  - https://github.com/redhat-developer/vscode-java/wiki/JDK-Requirements#java.configuration.runtimes
  - https://adoptium.net/
 
-2. Set system environment variable
+2. Set windows user environment variable. If any permission issue, set it as an environment variable
 ```
 JAVA_HOME = path\to\your\Eclipse Adoptium\jdk-17.0.3.7-hotspot
 ```
