@@ -1,6 +1,8 @@
 # Getting started of Spring project in VSCode
 
-A minimal example of Spring Maven in VSCode
+A minimal example of Spring Maven in VSCode. Edit from
+
+https://spring.io/guides/gs/spring-boot/
 
 
 ## Setup Java JDK
